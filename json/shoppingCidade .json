@@ -1,0 +1,62 @@
+{
+  "shopping": "Shopping Cidade Sorocaba",
+  "filme": [
+    {
+      "titulo": "RAMPAGE - DESTRUIÇÃO TOTAL",
+      "cartaz": "rampage.jpg",
+      "sinopse": "O primatologista Davis Okoye (Johnson) é um homem solitário que tem uma amizade inabalável com George, um gorila extremamente inteligente que está sob os seus cuidados desde o seu nascimento. Porém, quando um experimento genético não autorizado dá errado, este primata gentil é transformado em uma criatura feroz e de tamanho descomunal. Para piorar as coisas, descobre-se que há outros animais que sofreram mutações similares. À medida que estes superpredadores atravessam os Estados Unidos, destruindo tudo em seu caminho, Okoye se une a uma geneticista desacreditada para desenvolver um antídoto, abrindo caminho em um campo de batalha em constante mutação, não só para impedir uma catástrofe mundial, mas também para salvar a temida criatura que já foi seu amigo.",
+      "genero": "Ação",
+      "duracao": "107 min",
+      "salas": [
+        {
+          "sala": "Sala 5",
+          "lingua": "DUB",
+          "visual": "2D"
+        },
+        {
+          "sala": "Sala 6",
+          "lingua": "DUB",
+          "visual": "2D"
+        }
+      ]
+    },
+    {
+      "titulo": "NADA A PERDER - CONTRA TUDO. POR TODOS",
+      "cartaz": "nada_a_perder.jpg",
+      "sinopse": "Baseado em fatos reias, `Nada a Perder´ revela os episódios mais marcantes da vida de Edir Macedo. A história do país nos anos 60, 70, 80 e 90 é pano de fundo para a trajetória do líder religioso, sempre cercada de momentos difíceis, polêmicos e controversos, como sua prisão em 1992, em São Paulo.",
+      "genero": "Drama",
+      "duracao": "130 min",
+      "salas": [
+        {
+          "sala": "Sala 2",
+          "lingua": "NAC",
+          "visual": "2D"
+        }
+      ]
+    },
+    {
+      "titulo": "Vingadores: Guerra Infinita",
+      "cartaz": "vingadores.jpg",
+      "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+      "genero": "Ficção Científica",
+      "duracao": "150 min",
+      "salas": [
+        {
+          "sala": "Sala 1",
+          "lingua": "DUB",
+          "visual": "2D"
+        },
+        {
+          "sala": "Sala 3",
+          "lingua": "LEG",
+          "visual": "3D"
+        },
+        {
+          "sala": "Sala 4",
+          "lingua": "DUB",
+          "visual": "3D"
+        }
+      ]
+    }
+  ]
+}
