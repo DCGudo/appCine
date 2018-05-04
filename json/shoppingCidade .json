@@ -2,13 +2,8 @@
   "shopping": "Shopping Cidade Sorocaba",
   "filme": [
     {
-<<<<<<< HEAD
       "titulo": "Rampage - Destruição Total",
-	  "censura": "14 anos",
-=======
-      "titulo": "RAMPAGE - DESTRUIÇÃO TOTAL",
       "censura": "14 anos",
->>>>>>> b1050f8303b57a0a5d775c4d32aa3f81f489daaf
       "cartaz": "/image/rampage.jpg",
       "sinopse": "O primatologista Davis Okoye (Johnson) é um homem solitário que tem uma amizade inabalável com George, um gorila extremamente inteligente que está sob os seus cuidados desde o seu nascimento. Porém, quando um experimento genético não autorizado dá errado, este primata gentil é transformado em uma criatura feroz e de tamanho descomunal. Para piorar as coisas, descobre-se que há outros animais que sofreram mutações similares. À medida que estes superpredadores atravessam os Estados Unidos, destruindo tudo em seu caminho, Okoye se une a uma geneticista desacreditada para desenvolver um antídoto, abrindo caminho em um campo de batalha em constante mutação, não só para impedir uma catástrofe mundial, mas também para salvar a temida criatura que já foi seu amigo.",
       "genero": "Ação",
@@ -27,13 +22,8 @@
       ]
     },
     {
-<<<<<<< HEAD
       "titulo": "Nada a perder - Contra tudo. Por todos",
-	  "censura": "12 anos",
-=======
-      "titulo": "NADA A PERDER - CONTRA TUDO. POR TODOS",
       "censura": "12 anos",
->>>>>>> b1050f8303b57a0a5d775c4d32aa3f81f489daaf
       "cartaz": "/image/nada_a_perder.jpg",
       "sinopse": "Baseado em fatos reias, `Nada a Perder´ revela os episódios mais marcantes da vida de Edir Macedo. A história do país nos anos 60, 70, 80 e 90 é pano de fundo para a trajetória do líder religioso, sempre cercada de momentos difíceis, polêmicos e controversos, como sua prisão em 1992, em São Paulo.",
       "genero": "Drama",
